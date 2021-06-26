@@ -26,7 +26,7 @@ Welcome to my GitHub!
 ## ☕ Get in touch
 
 [![Telegram](https://img.shields.io/badge/-Telegram?logo=telegram&label=telegram&style=for-the-badge)](https://t.me/JulCzar)
-[![linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-barcelo-monteiro-17598b14a/)
+[![linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julczar/)
 
 ## 🔥 How to reach me (Easily)
  - 📧 Mail: julczar21@outlook.com
