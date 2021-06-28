@@ -8,6 +8,7 @@ Welcome to my GitHub!
  - 🇧🇷 Brazilian guy 
  - Birthday 21.08.2001 👶
  - I Love Javascript ❤️ (REALLY!)
+ - Hate Java Server Faces (and everything related)
 
 ---
   FullStack Developer focused on web applications and innovative solutions, excited in work with newest and smart technologies, currently interested in backend solutions and design patterns. Creative, Skilled, attentive, good communication always learning something new to apply and improve my skills.
