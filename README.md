@@ -55,4 +55,5 @@ Welcome to my GitHub!
 
 ![stats](https://github-readme-stats.vercel.app/api?username=JulCzar&show_icons=true&theme=dark)
 |![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=JulCzar&layout=compact&theme=dark)
+|![streak](https://github-readme-streak-stats.herokuapp.com/?user=giovannifranco1&)
 
