@@ -3,6 +3,7 @@
 Welcome to my GitHub!
 
 ## 💻 A little about me
+
 - 🇧🇷 Brazilian, born on 21/08/2001
 - Passionate about JavaScript and its ecosystem ❤️
 - Focused on crafting modern web applications with React and TypeScript
@@ -16,6 +17,7 @@ Since childhood, I've been fascinated by understanding how things work and findi
 ---
 
 ## 👨‍💻 I'm currently working on:
+
 - Enhancing personal and open-source projects
 - Improving my knowledge of JavaScript, TypeScript, and design patterns
 - Deep diving into React, state management, and performance optimization
@@ -37,6 +39,7 @@ Feel free to explore my repositories or connect with me to share ideas and colla
 ## ⌨️ Skills and Tools
 
 ### 🌐 Web Development
+
 - **Frameworks and Libraries:** React.js, Redux, Jotai, Zustand, React Query, React Hook Form
 - **Styling:** Styled-Components, Material UI, Chakra-UI, Ant Design, PrimeReact
 - **Testing:** Jest, React Testing Library
@@ -45,29 +48,33 @@ Feel free to explore my repositories or connect with me to share ideas and colla
 - **Backend Integration:** Node.js, Express, Firebase (Firestore, Functions, Authentication)
 
 ### 📱 Mobile Development
+
 - **Frameworks and Libraries:** React Native, Expo, React Native Reanimated
 - **Firebase Services:** Analytics, Crashlytics, A/B Testing, App Distribution
 - **Development Tools:** Xcode, Android Studio
 - **Animations and Navigation:** React Navigation, Gesture Handler, Lottie
 
 ### ⚙️ DevOps and Virtualization
+
 - **Containerization:** Docker, Kubernetes
 - **Virtualization:** VirtualBox, VMware
 - **Networking:** ZeroTier
 
 ### 📈 Personal Projects
+
 - **Open Source:** [JS-Duration](https://github.com/julczar/duration) — A utility inspired by Dart's `Duration`, providing easy manipulation of time units (days, hours, minutes, etc.).
 
 ### 🌟 Design Systems and Tools
+
 - **Design Systems:** Material UI, Ant Design, Chakra-UI, PrimeFaces
 - **Prototyping Tools:** Figma, Penpot (Self-Hosted)
 
 ### 🚀 Monitoring and Analytics
+
 - **Performance and Errors:** Sentry (Performance Monitoring and Error Tracking), Firebase Analytics
 - **Code Quality:** SonarQube
 
 ---
-
 
 ### ✔️ I'm currently learning
 
@@ -75,13 +82,12 @@ Feel free to explore my repositories or connect with me to share ideas and colla
 [Rust](https://www.rust-lang.org/) and its ecosystem, focusing on WebAssembly and systems programming.\
 [VR and AR development](https://developers.meta.com/horizon/discover/why-meta-quest) with Unity and Unreal Engine.
 
-
 # Github Stats
+
 ![pro](https://img.shields.io/badge/-PRO-blueviolet?style=for-the-badge&logo=github)
 ![follows](https://img.shields.io/github/followers/JulCzar?style=for-the-badge)
-![stars](https://img.shields.io/github/stars/JulCzar?style=for-the-badge) 
+![stars](https://img.shields.io/github/stars/JulCzar?style=for-the-badge)
 
-![stats](https://github-readme-stats.vercel.app/api?username=JulCzar&show_icons=true&theme=dark)
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=JulCzar&layout=compact&theme=dark)
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=JulCzar)
-
+<img width="350" src="https://github-readme-stats.vercel.app/api?username=julczar&theme=dracula&show_icons=true&hide_border=true&count_private=false" alt="julczar's stats"/>
+<img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=julczar&theme=dracula&hide_border=true" alt="julczar's streak"/>
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julczar&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="julczar's top languages"/>
