@@ -1,59 +1,87 @@
-
- 
 # Júlio Here 🍰
 
 Welcome to my GitHub!
 
-# 💻 A little about me
- - 🇧🇷 Brazilian guy 
- - Birthday 21.08.2001 👶
- - I Love Javascript ❤️ (REALLY!)
- - Hate Java Server Faces (and everything related)
-
----
-  FullStack Developer focused on web applications and innovative solutions, excited in work with newest and smart technologies, currently interested in backend solutions and design patterns. Creative, Skilled, attentive, good communication always learning something new to apply and improve my skills.
-
-  Since I was a child I always wanted to know how things work and how I can modify or customize them to do what I want, and with that, I ended up creating a sense of "Solve Problems", which proved to be very useful when I started learning to program and here I start my love for a development career.
+## 💻 A little about me
+- 🇧🇷 Brazilian, born on 21/08/2001
+- Passionate about JavaScript and its ecosystem ❤️
+- Focused on crafting modern web applications with React and TypeScript
 
 ---
 
-##  👨‍💻 I'm working on
- - Personal projects and University ones. 
- - Video Player (i'm actually improving one i already have in my repositories)
- - learn as deep as i can in javascript and typescript minutiae
+Frontend Developer specializing in building and optimizing web interfaces with clean, scalable, and innovative solutions. I'm driven by the challenge of turning complex ideas into intuitive user experiences, leveraging the latest technologies in the web development world.
+
+Since childhood, I've been fascinated by understanding how things work and finding ways to make them better—this curiosity naturally led me to programming and ignited my love for software development.
+
+---
+
+## 👨‍💻 I'm currently working on:
+- Enhancing personal and open-source projects
+- Improving my knowledge of JavaScript, TypeScript, and design patterns
+- Deep diving into React, state management, and performance optimization
+
+Feel free to explore my repositories or connect with me to share ideas and collaborate on exciting projects!
 
 ---
 
 ## ☕ Get in touch
 
-[![Telegram](https://img.shields.io/badge/-Telegram?logo=telegram&label=telegram&style=for-the-badge)](https://t.me/JulCzar)
-[![linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julczar/)
+[![Telegram](https://img.shields.io/badge/-Telegram?logo=telegram&label=telegram&style=for-the-badge)](https://t.me/JulCzar21)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julczar/)
 
-## 🔥 How to reach me (Easily)
- - 📧 Mail: julczar21@outlook.com
- - 🎧 Discord: JulCzar#9728
- - 📱 Telegram: https://t.me/Julczar
+📧 **Email:** czardev21@gmail.com
+🎧 **Discord:** [julczar](https://discordapp.com/users/456264933609439242)
 
-# ⌨️ Technologies
+---
 
-### 📁 Dominated Technologies
+## ⌨️ Skills and Tools
 
-[![html](https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=html&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)[![css](https://img.shields.io/badge/-CSS3-darkblue?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)[![javascript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com)[![git](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)[![npm](https://img.shields.io/badge/-NPM-black?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com)[![yarn](https://img.shields.io/badge/-Yarn-grey?style=for-the-badge&logo=yarn&logoColor=#2C8EBB)](https://yarnpkg.com)[![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)[![insomnia](https://img.shields.io/badge/-Insomnia-blueviolet?style=for-the-badge&logo=insomnia&logoColor=white)](https://insomnia.rest) 
+### 🌐 Web Development
+- **Frameworks and Libraries:** React.js, Redux, Jotai, Zustand, React Query, React Hook Form
+- **Styling:** Styled-Components, Material UI, Chakra-UI, Ant Design, PrimeReact
+- **Testing:** Jest, React Testing Library
+- **GraphQL:** Apollo Client, Relay
+- **Hosting & CI/CD:** Vercel, Netlify, GitLab CI (Self-Hosted), Docker, Docker Compose
+- **Backend Integration:** Node.js, Express, Firebase (Firestore, Functions, Authentication)
 
-### 📁 Used Technologies
+### 📱 Mobile Development
+- **Frameworks and Libraries:** React Native, Expo, React Native Reanimated
+- **Firebase Services:** Analytics, Crashlytics, A/B Testing, App Distribution
+- **Development Tools:** Xcode, Android Studio
+- **Animations and Navigation:** React Navigation, Gesture Handler, Lottie
 
-[![html](https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=html&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)[![css](https://img.shields.io/badge/-CSS3-darkblue?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)[![javascript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com)[![git](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)[![npm](https://img.shields.io/badge/-NPM-black?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com)[![yarn](https://img.shields.io/badge/-Yarn-grey?style=for-the-badge&logo=yarn&logoColor=#2C8EBB)](https://yarnpkg.com)[![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)[![insomnia](https://img.shields.io/badge/-Insomnia-blueviolet?style=for-the-badge&logo=insomnia&logoColor=white)](https://insomnia.rest)[![postgresql](https://img.shields.io/badge/-Postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)[![mongodb](https://img.shields.io/badge/-Mongodb-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)[![sqlite](https://img.shields.io/badge/-Sqlite-darkblue?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)[![bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)![primefaces](https://img.shields.io/badge/-primereact-blue?style=for-the-badge&logoColor=white)![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)![Powershell v7](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
+### ⚙️ DevOps and Virtualization
+- **Containerization:** Docker, Kubernetes
+- **Virtualization:** VirtualBox, VMware
+- **Networking:** ZeroTier
+
+### 📈 Personal Projects
+- **Open Source:** [JS-Duration](https://github.com/julczar/duration) — A utility inspired by Dart's `Duration`, providing easy manipulation of time units (days, hours, minutes, etc.).
+
+### 🌟 Design Systems and Tools
+- **Design Systems:** Material UI, Ant Design, Chakra-UI, PrimeFaces
+- **Prototyping Tools:** Figma, Penpot (Self-Hosted)
+
+### 🚀 Monitoring and Analytics
+- **Performance and Errors:** Sentry (Performance Monitoring and Error Tracking), Firebase Analytics
+- **Code Quality:** SonarQube
+
+---
 
 
 ### ✔️ I'm currently learning
 
- [![typescript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)[![redux](https://img.shields.io/badge/-Redux-blueviolet?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)[![flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)[![dart](https://img.shields.io/badge/-Dart-blue?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+[Flux architecture](https://facebookarchive.github.io/flux/docs/in-depth-overview/) and its implementations in React applications, such as Redux, Zustand, and Jotai.\
+[Rust](https://www.rust-lang.org/) and its ecosystem, focusing on WebAssembly and systems programming.\
+[VR and AR development](https://developers.meta.com/horizon/discover/why-meta-quest) with Unity and Unreal Engine.
 
 
 # Github Stats
- ![pro](https://img.shields.io/badge/-PRO-blueviolet?style=for-the-badge&logo=github) ![follows](https://img.shields.io/github/followers/JulCzar?style=for-the-badge) ![stars](https://img.shields.io/github/stars/JulCzar?style=for-the-badge) 
+![pro](https://img.shields.io/badge/-PRO-blueviolet?style=for-the-badge&logo=github)
+![follows](https://img.shields.io/github/followers/JulCzar?style=for-the-badge)
+![stars](https://img.shields.io/github/stars/JulCzar?style=for-the-badge) 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=JulCzar&show_icons=true&theme=dark)
-|![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=JulCzar&layout=compact&theme=dark)
-|![streak](https://github-readme-streak-stats.herokuapp.com/?user=JulCzar)
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=JulCzar&layout=compact&theme=dark)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=JulCzar)
 
